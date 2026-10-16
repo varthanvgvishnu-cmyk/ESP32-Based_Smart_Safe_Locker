@@ -122,4 +122,4 @@ LinkedIn: https://linkedin.com/in/vishnu-varthan-vg
 
 ## 📄 License
 
-This project is intended for educational and demonstration purposes. Add a suitable open-source license if you want others to reuse or modify your work.
+This project is intended for educational and demonstration purposes.
