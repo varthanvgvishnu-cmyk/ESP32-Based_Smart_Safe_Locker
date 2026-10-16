@@ -116,9 +116,9 @@ Include images showing:
 
 Electrical and Electronics Engineering (EEE)
 
-GitHub: [Add your GitHub profile link]
+GitHub: https://github.com/varthanvgvishnu-cmyk
 
-LinkedIn: [Add your LinkedIn profile link]
+LinkedIn: https://linkedin.com/in/vishnu-varthan-vg
 
 ## 📄 License
 
